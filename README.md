@@ -1,4 +1,4 @@
-# ConsoleTetris
+# TextBlame
 This code provides an "blame" function based on files for windows and linux.
 
 ## What it is 
