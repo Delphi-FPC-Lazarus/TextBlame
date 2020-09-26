@@ -40,7 +40,7 @@ resourcestring
 const
   bIgnoreCase = false;
   bIgnoreWhiteSpace = true;
-  csResultFile = 'diff.txt';
+  csResultFile = 'blame.txt';
 
 var
   path: string = '';
