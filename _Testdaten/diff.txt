@@ -1,0 +1,5 @@
+﻿Testdatei-rev3|NeueZeile
+Testdatei-rev1|Zeile3
+Testdatei-rev2|Zeile5 - modifiziert
+Testdatei-rev1|Zeile7
+Testdatei-rev1|Zeile9
