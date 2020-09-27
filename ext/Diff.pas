@@ -47,8 +47,9 @@
 *                    provide a much simpler view of differences through a new  *
 *                    'Compares' property.                                      *
 * 7 November 2009  - Updated so now compiles in newer versions of Delphi.      *
-* --- additional external fixes ---											   *
-* 15 July 20219	   - xe64 compatibility										   *
+* --- additional external fixes ---											                       *
+* 15 July 2019	   - xe64 compatibility	(Peter Lorenz, webmaster@peter-ebe.de) *
+* 26 Sep 2020 	   - FPC compatibility (Peter Lorenz, webmaster@peter-ebe.de)  *
 *******************************************************************************)
 
 interface
